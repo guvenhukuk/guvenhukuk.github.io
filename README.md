@@ -1,1 +1,0 @@
-# guvenhukuk.github.io
