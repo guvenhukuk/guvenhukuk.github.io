@@ -23,3 +23,5 @@
       consoleLog("componentWillUpdate");
   }
   */
+
+//!!! this.render(); UseLess!
